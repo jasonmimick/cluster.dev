@@ -60,6 +60,7 @@
       "posix",
       "printf",
       "publically",
+      "pylint",
       "readlink",
       "realpath",
       "reload",
