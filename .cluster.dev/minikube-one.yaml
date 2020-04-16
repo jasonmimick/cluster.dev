@@ -3,7 +3,7 @@ cluster:
   name: minikube-five
   cloud:
     provider: aws
-    region: eu-central-1
+    region: us-east-2
     vpc: default
 # 'domain' you need to create/have it in your AWS Route53 account
     domain: cluster.dev
